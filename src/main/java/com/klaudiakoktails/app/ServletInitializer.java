@@ -1,4 +1,4 @@
-package com.klaudiakoktails.KlaudiaKoktails;
+package com.klaudiakoktails.app;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
