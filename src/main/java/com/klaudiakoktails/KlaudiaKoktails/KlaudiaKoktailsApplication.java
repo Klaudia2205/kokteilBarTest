@@ -10,4 +10,5 @@ public class KlaudiaKoktailsApplication {
 		SpringApplication.run(KlaudiaKoktailsApplication.class, args);
 	}
 
+
 }
